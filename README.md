@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manvi Kishore!  
 
-🎓I am currently pursuing **Master's in Computer Science** at Purdue University and have **GPA: 4.0** so far and
+🎓I am currently pursuing **Master's in Computer Science** at Purdue University and have **GPA: 4.0** so far. Also,
    I have worked as **full stack developer** for three years at **Deutsche Bank**.
 
 ## 🌟 **Focus Areas:**  
